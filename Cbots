@@ -1,0 +1,41 @@
+# cBots
+
+Collection of automated trading systems developed for cTrader Automate.
+
+These projects focus on market analysis, risk management, trade execution and workflow automation.
+
+## Objectives
+
+- Trading automation
+- Risk management
+- Position management
+- Market structure execution
+- Quantitative trading models
+
+## Projects
+
+### Smart Flow Engine
+
+Automated trading framework designed to evaluate market conditions using liquidity, structure and momentum.
+
+### Trade Manager Bot
+
+Position management utility focused on trade monitoring, risk control and execution management.
+
+### Risk Manager Bot
+
+Risk management system designed to calculate exposure, position sizing and capital preservation rules.
+
+### Quantitative Execution Bot
+
+Experimental framework for quantitative model implementation and automated market participation.
+
+## Technologies
+
+- C#
+- cTrader Automate
+- .NET
+
+## Status
+
+Active Development
